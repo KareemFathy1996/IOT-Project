@@ -2,6 +2,7 @@ plugin name
 AdsPlugin
 
 image url
+https://raw.githubusercontent.com/KareemFathy1996/IOT-Project/master/MoT/AdsPlugin/tv.png
 
 description
 add ads service provided by https://www.revenuehits.com/ to yout website
