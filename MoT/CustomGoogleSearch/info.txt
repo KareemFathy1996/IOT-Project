@@ -1,0 +1,24 @@
+<script async src="https://cse.google.com/cse.js?cx=006094064906732385412:8e-x9mppndo"></script>
+
+
+
+<div class="gcse-searchbox-only" data-resultsUrl="http://www.youtube.com" data-newWindow="true" data-queryParameterName="search">
+
+
+006094064906732385412:8e-x9mppndo
+http://www.masterofthings.com/
+
+006094064906732385412:-ksxz3ne3cq
+https://thingsboard.io/
+
+
+
+
+plugin name
+CustomGoogleSearchPlugin
+
+image url
+https://raw.githubusercontent.com/KareemFathy1996/PokemonArena/master/search.png
+
+description
+add google custom search service to your website
