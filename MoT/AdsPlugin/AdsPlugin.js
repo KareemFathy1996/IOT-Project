@@ -29,7 +29,7 @@ var AdsPlugin = (function () {
         img.style.left = self.GetParameterValue("LocationX") + "px";
         img.style.width = self.GetParameterValue("PluginWidth") + "px";
         img.style.height = self.GetParameterValue("PluginHeight") + "px";
-        img.src = "https://raw.githubusercontent.com/KareemFathy1996/IoT-platforms-custom-plugins/master/MasterOfThings/AdsPlugin/tv.png"
+        img.src = "https://raw.githubusercontent.com/KareemFathy1996/IOT-Project/master/MoT/AdsPlugin/tv.png"
 
         // behavior in user page
         if (window.location.href != "https://beta.masterofthings.com/mot.html#") {
